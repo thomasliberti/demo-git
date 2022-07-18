@@ -8,9 +8,15 @@ Dans votre dossier lancez la commande :
 git init
 ```
 
+## ajouter tous les fichiers
+```sh
+git add *
+```
+
 ## Créer un commit
 Lancez la commande :
 ```sh
 git commit -m "First commit
 ```
+
 
