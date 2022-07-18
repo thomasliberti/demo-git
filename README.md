@@ -7,3 +7,10 @@ Dans votre dossier lancez la commande :
 ```sh
 git init
 ```
+
+## Créer un commit
+Lancez la commande :
+```sh
+git commit -m "First commit
+```
+
