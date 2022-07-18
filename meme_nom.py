@@ -1,0 +1,1 @@
+print("fichier commun avec thomas")
