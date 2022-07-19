@@ -3,16 +3,16 @@ doc
 """
 nterms = int(input("Entrez un nombre: "))
 
-n1 = 0
-n2 = 1
+N1 = 0
+N2 = 1
 
 print("\n la suite fibonacci est :")
-print(n1, ",", n2, end=", ")
+print(N1, ",", N2, end=", ")
 
 for i in range(2, nterms):
-    suivant = n1 + n2
-    print(suivant, end=", ")
-    
-    n1 = n2
-    n2 = suivant
+    C0 = N1 + N2
+    print(C0, end=", ")
+
+    N1 = N2
+    N2 = C0
     
